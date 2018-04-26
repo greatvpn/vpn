@@ -13,4 +13,7 @@ Android客户端下载：http://www.greatvpn.net/upload/image/20180107/shadowsoc
 
 IOS客户端下载：https://www.greatvpn.net/user/article?id=3  (请查看此教程)
 
-游戏加速客户端：http://www.greatvpn.net/upload/image/20180127/SSTap.exe
+游戏加速客户端：http://www.greatvpn.net/upload/image/20180127/SSTap.exe 
+
+Windows客户端使用教程
+---------
