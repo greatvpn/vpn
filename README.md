@@ -17,4 +17,5 @@ IOS客户端下载：https://www.greatvpn.net/user/article?id=3  (请查看此�
 
 Windows客户端使用教程
 ---------
+注册登录后按照以下教程操作
 ![image](https://github.com/greatvpn/vpn/blob/master/ForWindows.gif)
