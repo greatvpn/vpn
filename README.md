@@ -2,6 +2,7 @@
 ![image](https://www.greatvpn.net/assets/images/home_logo.png)
 * 网址：https://www.greatvpn.net
 * Telegram讨论群：https://t.me/greatvpn
+* https://www.greatvpn.net/register?aff=1 （通过此推广链接注册可得2G试用流量，注册后通过您的推广链接注册并激活的用户可获得 1024MB 流量奖励，同时您也可以获得 1024MB 流量奖励）
 
 ## 客户端    
 Windows客户端下载：http://www.greatvpn.net/upload/image/20180107/ShadowsocksR-dotnet4.0.exe 
