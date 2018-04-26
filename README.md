@@ -3,4 +3,5 @@
 ### <a href="https://www.greatvpn.net" target="_blank">https://www.greatvpn.net</a>   
 ## 客户端
 ----
-ddddd
+[![baidu]](http://baidu.com)  
+[baidu]:http://www.baidu.com/img/bdlogo.gif "百度Logo"  
