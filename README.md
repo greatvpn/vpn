@@ -20,3 +20,11 @@ Windows客户端使用教程
 ---------
 注册登录后按照以下教程操作
 ![image](https://github.com/greatvpn/vpn/blob/master/ForWindows.gif)
+
+Android客户端使用教程
+---------
+点击链接查看视频教程：
+https://www.greatvpn.net/upload/video/20180315/1521131520423686.mp4
+
+
+
